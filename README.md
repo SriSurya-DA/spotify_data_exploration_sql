@@ -1,4 +1,4 @@
-# spotify_data_exploration
+# spotify_data_exploration_sql
 
 ![spotify](https://github.com/SriSurya-DA/spotify_data_exploration/blob/main/spotify.jpg)
 
